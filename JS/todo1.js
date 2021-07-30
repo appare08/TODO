@@ -92,3 +92,5 @@ const moveToIncompleteList = (text) => {
     //未完了のリストに追加
     document.querySelector("#incomplete-list").appendChild(li);
 };
+
+//完成
